@@ -1,0 +1,13 @@
+c:\users\yemopc\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\bin\Debug\tipoMoneda.exe.config
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\bin\Debug\tipoMoneda.exe
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\bin\Debug\tipoMoneda.pdb
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.csprojResolveAssemblyReference.cache
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Properties.Resources.resources
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.csproj.GenerateResource.Cache
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.exe
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.pdb
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Tipo.resources
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Form2.resources
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Form3.resources
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Form4.resources
+C:\Users\YemoPC\documents\visual studio 2013\Projects\tipoMoneda\tipoMoneda\obj\Debug\tipoMoneda.Form5.resources
